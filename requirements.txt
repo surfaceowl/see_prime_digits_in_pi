@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+sympy
+opencv-python 
+
+jupyter
+jupyter_contrib_nbextensions
+
